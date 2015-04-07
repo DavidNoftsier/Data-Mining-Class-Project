@@ -1,6 +1,6 @@
 '''Authors:
     Josh Gibbons
-    David
+    David Noftsier
     Yun Nam Lin
 '''
 
